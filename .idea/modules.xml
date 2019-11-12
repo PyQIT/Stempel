@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projekt Grafika Komputerowa.iml" filepath="$PROJECT_DIR$/.idea/Projekt Grafika Komputerowa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stamp-javafx/stamp-javafx.iml" filepath="$PROJECT_DIR$/stamp-javafx/stamp-javafx.iml" />
+    </modules>
+  </component>
+</project>
